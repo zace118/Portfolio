@@ -1,0 +1,31 @@
+body,
+html {
+  background-image: url(Assets/slate.jpg);
+  height: 100%;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Onload, the fade in title */
+#test {
+  margin-top: 25px;
+  font-size: 21px;
+  text-align: center;
+  -webkit-animation: fadein 4s;
+}
+
+@-webkit-keyframes fadein {
+  /* Safari and Chrome */
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+#Zac {
+  transform: translate(0%, 300px);
+}
