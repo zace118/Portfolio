@@ -11,9 +11,9 @@ html {
 /* Onload, the fade in title */
 #test {
   margin-top: 25px;
-  font-size: 21px;
+  font-size: 80px;
   text-align: center;
-  -webkit-animation: fadein 4s;
+  -webkit-animation: fadein 5s;
 }
 
 @-webkit-keyframes fadein {
@@ -26,6 +26,24 @@ html {
   }
 }
 
-#Zac {
+.nav-link,
+.navbar-brand {
+  font-family: Georgia, serif;
+}
+
+/* #navbarText {
+  
+} */
+
+#myName {
   transform: translate(0%, 300px);
+  font-family: Georgia, serif;
+}
+
+#myBlurb {
+  font-family: Georgia, serif;
+}
+
+.navbar-toggler {
+  float: right;
 }

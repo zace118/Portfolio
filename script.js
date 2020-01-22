@@ -1,4 +1,7 @@
-$('#Zac').on('click', function () {
+$('#myName').click(function () {
     // wipe page and start about me page
-    alert("Woooo!");
+    window.location.href = "./about.html";
+    return false;
 })
+
+
