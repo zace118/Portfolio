@@ -1,6 +1,7 @@
 body,
 html {
-  background-image: url(Assets/slate.jpg);
+  background-image: url(./Assets/blueboards.jpg);
+
   height: 100%;
   width: auto;
   background-position: center;
@@ -40,10 +41,19 @@ html {
   float: right;
 }
 
+#aboutMe {
+  border-color: whitesmoke;
+  width: fit-content;
+  height: 300px;
+  border: 5px solid whitesmoke;
+  padding: 10px;
+  background-image: url(./Assets/slate.jpg);
+}
+
 #myPic {
   width: 200px;
   height: auto;
-  /* display: inline; */
+  margin-right: 25px;
 }
 
 #myBlurb {
@@ -51,38 +61,21 @@ html {
   display: inline;
 }
 
-#aboutMe {
-  border-color: whitesmoke;
-  width: fit-content;
-  height: 300px;
-  border: 5px solid whitesmoke;
-  padding: 10px;
-}
-
 #projects {
   border-color: whitesmoke;
   width: fit-content;
   border: 5px solid whitesmoke;
   padding: 10px;
-  /* margin-bottom: 100px; */
+  background-image: url(Assets/slate.jpg);
 }
 
 #portfolioTitle {
   text-align: center;
   font-family: Georgia, serif;
 }
-.portIcons {
-  width: 900px;
-  height: 900px;
-}
 
-.imageContainer {
-  width: auto;
-  height: 300px;
-}
-
-#left1 {
-  margin-right: 10px;
+#projectCards {
+  background-image: url(./Assets/grain.jpg);
 }
 
 #bottomNav {
