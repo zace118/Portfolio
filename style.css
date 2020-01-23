@@ -4,12 +4,12 @@ html {
   height: 100%;
   width: auto;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
 }
 
 /* Onload, the fade in title */
-#test {
+#title {
   margin-top: 25px;
   font-size: 80px;
   text-align: center;
@@ -31,19 +31,60 @@ html {
   font-family: Georgia, serif;
 }
 
-/* #navbarText {
-  
-} */
-
 #myName {
   transform: translate(0%, 300px);
   font-family: Georgia, serif;
 }
 
-#myBlurb {
-  font-family: Georgia, serif;
-}
-
 .navbar-toggler {
   float: right;
+}
+
+#myPic {
+  width: 200px;
+  height: auto;
+  /* display: inline; */
+}
+
+#myBlurb {
+  font-family: Georgia, serif;
+  display: inline;
+}
+
+#aboutMe {
+  border-color: whitesmoke;
+  width: fit-content;
+  height: 300px;
+  border: 5px solid whitesmoke;
+  padding: 10px;
+}
+
+#projects {
+  border-color: whitesmoke;
+  width: fit-content;
+  border: 5px solid whitesmoke;
+  padding: 10px;
+  /* margin-bottom: 100px; */
+}
+
+#portfolioTitle {
+  text-align: center;
+  font-family: Georgia, serif;
+}
+.portIcons {
+  width: 900px;
+  height: 900px;
+}
+
+.imageContainer {
+  width: auto;
+  height: 300px;
+}
+
+#left1 {
+  margin-right: 10px;
+}
+
+#bottomNav {
+  margin-top: 100px;
 }
