@@ -77,6 +77,8 @@ html {
 
 .projectCards {
   background-image: url(./Assets/grain.jpg);
+  width: fit-content;
+  height: auto;
 }
 
 #bottomNav {
