@@ -48,6 +48,7 @@ html {
   border: 5px solid whitesmoke;
   padding: 10px;
   background-image: url(./Assets/slate.jpg);
+  margin-bottom: 100px;
 }
 
 #myPic {
