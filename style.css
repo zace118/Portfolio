@@ -43,8 +43,8 @@ html {
 
 #aboutMe {
   border-color: whitesmoke;
-  width: fit-content;
-  /* height: 400px; */
+  width: auto;
+  height: fit-content;
   border: 5px solid whitesmoke;
   padding: 10px;
   background-image: url(./Assets/slate.jpg);
