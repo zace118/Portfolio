@@ -43,18 +43,18 @@ html {
 
 #aboutMe {
   border-color: whitesmoke;
-  width: auto;
-  height: fit-content;
   border: 5px solid whitesmoke;
-  padding: 10px;
   background-image: url(./Assets/slate.jpg);
-  margin-bottom: 100px;
+  width: auto;
+  /* height: fit-content; */
+  /* padding: 10px; */
+  /* margin-bottom: 100px; */
 }
 
 #myPic {
   width: 200px;
-  height: auto;
-  margin-right: 25px;
+  /* height: auto; */
+  margin-right: 35px;
 }
 
 #myBlurb {
