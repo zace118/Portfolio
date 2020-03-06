@@ -45,14 +45,18 @@ html {
   border-color: whitesmoke;
   border: 5px solid whitesmoke;
   background-image: url(./Assets/slate.jpg);
-  width: auto;
+  width: 90%;
+  min-height: 350px;
+  padding: 40px 40px 0;
+  margin: 0 auto;
   /* height: fit-content; */
   /* padding: 10px; */
   /* margin-bottom: 100px; */
 }
 
 #myPic {
-  width: 200px;
+  width: 40%;
+  max-width: 200px;
   /* height: auto; */
   margin-right: 35px;
 }
