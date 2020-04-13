@@ -2,6 +2,9 @@
 
 Personal portfolio that display my favorite projects I've done, contact info, and a blurb about myself. First full built site I made through the boot camp. HTML, CSS and JavaScript with some jQuery as well. 
 
+![Landing Page](/Assets/CodingCoursework/LandingPage.png)
+![About Me Page](/Assets/CodingCoursework/AboutMe.png)
+
 ## Built With
 
 * [jQuery](https://api.jquery.com/) 
