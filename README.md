@@ -18,4 +18,5 @@ See also the list of [contributors](https://github.com/zace118/Portfolio/contrib
 
 ## Acknowledgments
 
-* High fives to my T.A.'s, Mike Mayo, Andrew Mendez, and David Barrios
+* High fives to my T.A.'s, [Mike Mayo](https://github.com/Magic-Mayo), [Andrew Mendez](https://github.com/MendezAndrewM), and David Barrios
+* Big shout out to my instructor, [JJ Brenner](https://github.com/breadstickguy)
