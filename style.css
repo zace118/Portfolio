@@ -76,8 +76,9 @@ html {
 }
 
 .projectCards {
-  background-image: url(./Assets/grain.jpg);
+  /* background-image: url(./Assets/grain.jpg); */
   width: fit-content;
+  /* width: 100%; */
   height: auto;
 }
 
